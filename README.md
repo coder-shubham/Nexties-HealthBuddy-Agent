@@ -2,7 +2,7 @@
 
 ## 📌 Project Description
 
-**Nexties-HealthBuddy-Agent** is an intelligent, agentic healthcare assistant designed to help users assess their symptoms, receive triage-based guidance, and get connected to appropriate medical services—all with empathy, accuracy, and speed. This solution leverages the power of **Java SpringBoot**, **LangChain4j**, **Azure OpenAI**, **Azure Cognitive Search (RAG)**, and **Azure Maps** to deliver a privacy-aware, real-time digital health assistant that can scale across use cases.
+**Nexties-HealthBuddy-Agent** is an intelligent, agentic healthcare assistant designed to help users assess their symptoms, receive triage-based guidance, and get connected to appropriate medical services—all with empathy, accuracy, and speed. This solution leverages the power of **Java SpringBoot**, **LangChain4j**, and **Azure OpenAI** to deliver a privacy-aware, real-time digital health assistant that can scale across use cases.
 
 ---
 
@@ -10,7 +10,7 @@
 
 - 🤖 **Agentic Architecture with Modular Tools** – Executes real-time decisions using PatientTool, SymptomTool, DoctorTool, TeleconsultationTool, and EmergencyServiceTool.
 - 🧠 **RAG-based Disease Understanding** – Uses retrieval-augmented generation to map symptoms to possible diseases from custom data.
-- 🗺️ **Location-Aware Emergency Response** – Locates nearest hospitals using Azure Maps for emergency classification.
+- 🗺️ **Location-Aware Emergency Response** – Locates nearest hospitals for emergency classification.
 - 🏥 **Smart Symptom Triage** – Categorizes into BASIC, MODERATE, or CRITICAL cases with different actions: suggest homecare, book doctor, or alert emergency services.
 - 📡 **WebSocket Real-Time Communication** – Ensures smooth bi-directional user-agent conversations.
 - 🔒 **Privacy-Conscious Design** – Aligns with HIPAA-like principles for handling patient records.
