@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "ageGroup": "30-40",
+    "location": "New York",
+    "mobileNumber": "15551234"
+  },
+  {
+    "id": 2,
+    "name": "Emily Green",
+    "ageGroup": "20-30",
+    "location": "California",
+    "mobileNumber": "15555678"
+  },
+  {
+    "id": 3,
+    "name": "David Smith",
+    "ageGroup": "40-50",
+    "location": "Texas",
+    "mobileNumber": "15559876"
+  },
+  {
+    "id": 4,
+    "name": "Sophia Johnson",
+    "ageGroup": "50-60",
+    "location": "Florida",
+    "mobileNumber": "15556543"
+  },
+  {
+    "id": 5,
+    "name": "Michael Lee",
+    "ageGroup": "30-40",
+    "location": "Illinois",
+    "mobileNumber": "15558765"
+  },
+  {
+    "id": 6,
+    "name": "Olivia Brown",
+    "ageGroup": "20-30",
+    "location": "Washington",
+    "mobileNumber": "15554321"
+  },
+  {
+    "id": 7,
+    "name": "Liam White",
+    "ageGroup": "40-50",
+    "location": "Nevada",
+    "mobileNumber": "15551357"
+  },
+  {
+    "id": 8,
+    "name": "Mia Davis",
+    "ageGroup": "30-40",
+    "location": "Ohio",
+    "mobileNumber": "15552468"
+  },
+  {
+    "id": 9,
+    "name": "Ethan Wilson",
+    "ageGroup": "50-60",
+    "location": "Georgia",
+    "mobileNumber": "15553690"
+  },
+  {
+    "id": 10,
+    "name": "Isabella Martinez",
+    "ageGroup": "20-30",
+    "location": "Arizona",
+    "mobileNumber": "15554567"
+  },
+  {
+    "id": 11,
+    "name": "Lucas Anderson",
+    "ageGroup": "30-40",
+    "location": "Colorado",
+    "mobileNumber": "15558901"
+  },
+  {
+    "id": 12,
+    "name": "Charlotte Taylor",
+    "ageGroup": "40-50",
+    "location": "Michigan",
+    "mobileNumber": "15551122"
+  },
+  {
+    "id": 13,
+    "name": "James Harris",
+    "ageGroup": "50-60",
+    "location": "North Carolina",
+    "mobileNumber": "15553344"
+  },
+  {
+    "id": 14,
+    "name": "Amelia Moore",
+    "ageGroup": "20-30",
+    "location": "South Carolina",
+    "mobileNumber": "15555566"
+  },
+  {
+    "id": 15,
+    "name": "Benjamin King",
+    "ageGroup": "30-40",
+    "location": "Pennsylvania",
+    "mobileNumber": "15557788"
+  },
+  {
+    "id": 16,
+    "name": "Harper Clark",
+    "ageGroup": "40-50",
+    "location": "Maryland",
+    "mobileNumber": "15559900"
+  },
+  {
+    "id": 17,
+    "name": "William Robinson",
+    "ageGroup": "50-60",
+    "location": "New Jersey",
+    "mobileNumber": "15552233"
+  },
+  {
+    "id": 18,
+    "name": "Avery Lewis",
+    "ageGroup": "30-40",
+    "location": "Virginia",
+    "mobileNumber": "15554455"
+  },
+  {
+    "id": 19,
+    "name": "Ella Walker",
+    "ageGroup": "20-30",
+    "location": "Tennessee",
+    "mobileNumber": "15556677"
+  },
+  {
+    "id": 20,
+    "name": "Jack Allen",
+    "ageGroup": "40-50",
+    "location": "Massachusetts",
+    "mobileNumber": "15558899"
+  }
+]

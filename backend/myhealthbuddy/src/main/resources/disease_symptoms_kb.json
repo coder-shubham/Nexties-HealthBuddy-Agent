@@ -1,0 +1,4002 @@
+[
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Oily skin, Whiteheads"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Low blood pressure"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Fever, Difficulty breathing"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Itchy eyes, Sneezing, Runny nose, Nasal congestion"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Rapid heart rate, Fever, Low blood pressure, Confusion, Difficulty breathing"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Blurred vision, Fatigue, Increased thirst, Frequent urination"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Sneezing, Nasal congestion, Runny nose"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Fatigue"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Fatigue"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Difficulty breathing, Confusion, Low blood pressure"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Nasal congestion, Sneezing, Runny nose, Itchy eyes"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Shortness of breath, Nausea, Fatigue"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Chest discomfort, Fatigue"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Nosebleeds, Headaches"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Fatigue, Mild head pain, Eye strain"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Loss of balance, Sudden numbness, Confusion"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Increased thirst, Frequent urination, Blurred vision, Fatigue"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Whiteheads, Oily skin, Blackheads, Pimples"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Severe headache, Sudden numbness, Confusion, Loss of balance, Trouble speaking"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Mucus, Chest discomfort"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Confusion, Shortness of breath, Fatigue"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Shortness of breath, Nausea, Swelling, Fatigue, Confusion"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Fatigue, Lumps"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Mucus, Chest discomfort, Persistent cough"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sore throat, Sneezing, Cough, Mild fever"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Increased thirst, Frequent urination"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Itchy eyes, Nasal congestion, Sneezing"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Chills, Fever, Body aches, Cough, Fatigue"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Chest tightness, Shortness of breath, Coughing"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Shortness of breath"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Chest discomfort, Persistent cough"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Itchy eyes, Sneezing"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Fatigue, Confusion"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Throbbing pain, Nausea"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Fatigue, Mild head pain"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Lumps, Pain"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Runny nose, Itchy eyes, Nasal congestion, Sneezing"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Shortness of breath, Chest pain, Pain in arm or jaw, Sweating"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sneezing, Mild fever, Runny nose"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Nosebleeds, Shortness of breath"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Rapid heart rate, Fever, Low blood pressure, Confusion"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Sneezing, Nasal congestion, Runny nose, Itchy eyes"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Fatigue, Increased thirst"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Severe headache, Sudden numbness, Loss of balance, Trouble speaking, Confusion"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Swelling, Confusion, Fatigue"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Shortness of breath, Dizziness, Nosebleeds"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Pain in arm or jaw, Nausea, Chest pain, Shortness of breath"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Shortness of breath, Nosebleeds, Dizziness"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Runny nose, Itchy eyes, Nasal congestion"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Fatigue, Frequent urination, Blurred vision"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Runny nose, Sneezing, Itchy eyes, Nasal congestion"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Trouble speaking, Loss of balance, Sudden numbness, Severe headache, Confusion"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Nosebleeds"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Headaches, Dizziness, Shortness of breath"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Fatigue, Eye strain"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Sweating, Shortness of breath, Nausea"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Increased thirst, Fatigue, Blurred vision"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Increased thirst, Fatigue, Blurred vision"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Fatigue, Eye strain"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Whiteheads, Oily skin"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Nausea"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Loss of balance, Trouble speaking"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Confusion, Loss of balance, Trouble speaking"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Unexplained weight loss, Skin changes, Lumps, Fatigue"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Shortness of breath, Coughing"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fever, Body aches, Cough"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Increased thirst, Fatigue"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Trouble speaking, Sudden numbness, Severe headache, Confusion"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Runny nose, Itchy eyes, Nasal congestion"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Nausea, Pain in arm or jaw"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Fatigue, Mild head pain"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Whiteheads, Pimples"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Fatigue, Eye strain"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Coughing, Wheezing, Chest tightness"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Chest tightness, Wheezing, Coughing"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Sweating, Shortness of breath, Pain in arm or jaw"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Sensitivity to light and sound"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Throbbing pain, Sensitivity to light and sound"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Itchy eyes, Nasal congestion, Sneezing"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Confusion, Fatigue, Shortness of breath, Nausea, Swelling"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Fatigue, Chest discomfort, Mucus"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Sweating, Pain in arm or jaw, Nausea, Shortness of breath, Chest pain"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Oily skin"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Pain in arm or jaw, Chest pain, Sweating, Shortness of breath, Nausea"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Chest pain, Shortness of breath, Nausea, Pain in arm or jaw, Sweating"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Throbbing pain, Nausea"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Runny nose, Nasal congestion"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Shortness of breath, Headaches, Nosebleeds, Dizziness"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Blurred vision, Increased thirst"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Trouble speaking, Loss of balance, Confusion"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Headaches, Nosebleeds"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Whiteheads"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Pain in arm or jaw, Shortness of breath, Chest pain, Nausea, Sweating"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Itchy eyes, Nasal congestion, Sneezing"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Eye strain, Fatigue"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Confusion, Severe headache, Trouble speaking, Sudden numbness, Loss of balance"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Chest discomfort, Persistent cough"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Cough, Body aches"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Fatigue, Eye strain, Mild head pain"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Nosebleeds, Shortness of breath"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Swelling, Nausea"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Shortness of breath"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Headaches, Shortness of breath, Dizziness"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Nasal congestion, Itchy eyes"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Nausea, Swelling, Confusion, Fatigue"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Shortness of breath"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Nosebleeds, Shortness of breath, Headaches"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Increased thirst, Blurred vision, Fatigue"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Fever, Confusion, Difficulty breathing, Low blood pressure, Rapid heart rate"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Trouble speaking, Confusion, Severe headache, Sudden numbness, Loss of balance"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Loss of balance, Confusion, Trouble speaking"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Persistent cough, Mucus"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fatigue, Fever"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Fatigue, Blurred vision"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Headaches, Nosebleeds, Shortness of breath"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Itchy eyes, Nasal congestion, Runny nose, Sneezing"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Unexplained weight loss, Skin changes, Fatigue, Lumps"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Swelling, Confusion"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Confusion, Fatigue, Shortness of breath, Nausea, Swelling"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Shortness of breath, Confusion, Nausea"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Runny nose, Sneezing, Itchy eyes"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Sensitivity to light and sound"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Fatigue, Mucus, Chest discomfort"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Runny nose, Cough, Sore throat"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Sneezing, Nasal congestion, Runny nose, Itchy eyes"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Confusion, Shortness of breath, Fatigue"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Unexplained weight loss, Skin changes, Lumps, Pain, Fatigue"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Sudden numbness, Loss of balance, Severe headache, Confusion, Trouble speaking"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Chest discomfort, Fatigue"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Fever, Confusion, Rapid heart rate"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sore throat, Runny nose, Sneezing, Mild fever, Cough"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Body aches, Fever, Cough"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Sensitivity to light and sound, Throbbing pain"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Fatigue, Persistent cough, Chest discomfort"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Fatigue, Unexplained weight loss, Pain, Lumps"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Loss of balance, Sudden numbness, Severe headache, Trouble speaking, Confusion"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Difficulty breathing, Fever, Rapid heart rate"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Fatigue, Increased thirst, Blurred vision"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Rapid heart rate, Low blood pressure, Difficulty breathing"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Shortness of breath, Sweating, Pain in arm or jaw, Nausea"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Persistent cough, Chest discomfort, Fatigue"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Blurred vision, Increased thirst"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Fatigue, Frequent urination"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fatigue, Fever, Body aches"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Shortness of breath"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Coughing, Shortness of breath, Chest tightness, Wheezing"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Trouble speaking, Loss of balance, Sudden numbness, Severe headache, Confusion"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Rapid heart rate, Confusion"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Blackheads, Whiteheads, Pimples, Oily skin"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Fatigue"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Increased thirst, Blurred vision"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Chest tightness, Coughing"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Difficulty breathing, Low blood pressure, Fever, Rapid heart rate, Confusion"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Shortness of breath, Headaches"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Increased thirst, Blurred vision, Fatigue"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Skin changes, Unexplained weight loss, Fatigue, Lumps"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Pain in arm or jaw, Chest pain, Shortness of breath, Sweating"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Fatigue, Persistent cough"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Body aches, Cough"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Nausea"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Confusion, Swelling"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Mucus, Chest discomfort"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fever, Fatigue, Body aches"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Nosebleeds"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Persistent cough, Chest discomfort, Fatigue"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Lumps, Skin changes, Fatigue, Unexplained weight loss, Pain"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Cough, Chills"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Skin changes, Lumps, Fatigue"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Blackheads, Pimples"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Cough, Fatigue, Chills, Fever"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Nausea, Throbbing pain"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Trouble speaking, Severe headache, Sudden numbness, Confusion, Loss of balance"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Coughing"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Fatigue, Increased thirst, Blurred vision"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Lumps, Fatigue, Skin changes, Unexplained weight loss"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fever, Fatigue, Cough, Chills, Body aches"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Rapid heart rate, Confusion, Fever, Low blood pressure, Difficulty breathing"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fever, Body aches, Fatigue, Cough, Chills"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Difficulty breathing, Fever, Rapid heart rate, Confusion"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Sweating, Chest pain"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Difficulty breathing, Confusion"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Unexplained weight loss, Fatigue, Lumps, Skin changes, Pain"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Sensitivity to light and sound, Throbbing pain"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Eye strain"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Difficulty breathing, Rapid heart rate"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Dizziness"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Coughing, Shortness of breath, Chest tightness"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Nausea, Confusion, Swelling, Shortness of breath, Fatigue"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Fatigue, Increased thirst, Blurred vision"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Blurred vision, Increased thirst, Fatigue"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Persistent cough, Chest discomfort, Mucus, Fatigue"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Fatigue, Lumps, Pain, Skin changes, Unexplained weight loss"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Difficulty breathing, Fever, Low blood pressure, Rapid heart rate"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Runny nose, Itchy eyes, Nasal congestion, Sneezing"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Nausea, Shortness of breath, Confusion"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Shortness of breath"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Cough, Fever, Chills, Body aches, Fatigue"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Blurred vision, Fatigue, Frequent urination, Increased thirst"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Whiteheads, Pimples, Oily skin"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Fever, Difficulty breathing, Low blood pressure, Rapid heart rate, Confusion"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Chest discomfort, Mucus"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Blackheads, Pimples"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Shortness of breath, Swelling"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Coughing, Shortness of breath"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Runny nose, Mild fever, Sore throat, Cough"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Trouble speaking, Severe headache, Loss of balance, Sudden numbness, Confusion"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Whiteheads, Oily skin, Pimples"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Runny nose, Mild fever, Cough"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Sweating, Nausea, Pain in arm or jaw, Shortness of breath"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Swelling, Confusion, Nausea"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Shortness of breath, Chest tightness, Coughing, Wheezing"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Cough, Fever"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Increased thirst, Frequent urination, Fatigue"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Dizziness, Headaches, Shortness of breath"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Shortness of breath, Chest tightness"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Increased thirst, Blurred vision"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Increased thirst, Frequent urination, Blurred vision"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Nausea, Sweating, Chest pain, Pain in arm or jaw, Shortness of breath"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Cough, Body aches, Fatigue"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fever, Cough, Body aches"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Fatigue, Eye strain, Mild head pain"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Skin changes, Lumps"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Unexplained weight loss, Skin changes, Lumps, Fatigue"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Nausea, Chest pain, Pain in arm or jaw, Shortness of breath, Sweating"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Cough, Chills, Fever"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Itchy eyes, Nasal congestion, Sneezing, Runny nose"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Fever, Low blood pressure"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Fatigue, Blurred vision"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Throbbing pain"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Fatigue, Mild head pain, Eye strain"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Sneezing, Itchy eyes, Nasal congestion, Runny nose"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sore throat, Sneezing"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Chest tightness"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Oily skin, Whiteheads"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Low blood pressure, Fever, Rapid heart rate, Difficulty breathing, Confusion"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Confusion, Severe headache, Trouble speaking, Sudden numbness, Loss of balance"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Fatigue"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Skin changes, Lumps"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Chills, Body aches"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sore throat, Cough, Runny nose"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Fatigue, Unexplained weight loss, Pain, Lumps"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Fatigue, Eye strain"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Nausea, Swelling, Confusion"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Fatigue, Chest discomfort"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Throbbing pain"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Unexplained weight loss, Fatigue, Lumps, Skin changes"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Blurred vision, Frequent urination, Fatigue, Increased thirst"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fatigue, Chills, Body aches, Cough"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Shortness of breath, Dizziness"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Lumps, Fatigue, Pain"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Blurred vision, Fatigue"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Eye strain, Fatigue"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Chest tightness, Wheezing, Shortness of breath"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Runny nose, Nasal congestion, Itchy eyes, Sneezing"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Persistent cough, Fatigue"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Fatigue, Confusion, Swelling, Nausea, Shortness of breath"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Blackheads, Oily skin, Whiteheads"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Skin changes, Fatigue, Unexplained weight loss, Lumps"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Unexplained weight loss, Skin changes"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Fatigue"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Oily skin, Pimples"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Rapid heart rate, Difficulty breathing, Fever, Confusion, Low blood pressure"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Unexplained weight loss, Skin changes, Lumps"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Dizziness, Shortness of breath"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Shortness of breath"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sore throat, Cough, Mild fever"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Whiteheads, Oily skin, Pimples"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Blurred vision, Fatigue"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Increased thirst"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Fatigue"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Runny nose, Nasal congestion"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Coughing"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Chest discomfort, Mucus, Fatigue, Persistent cough"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Shortness of breath, Wheezing, Coughing, Chest tightness"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Chest tightness, Wheezing, Shortness of breath, Coughing"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Rapid heart rate"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Confusion, Loss of balance, Sudden numbness, Trouble speaking"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Sneezing, Runny nose"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Unexplained weight loss, Lumps"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Fatigue, Mild head pain, Eye strain"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Severe headache, Loss of balance, Trouble speaking"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Blackheads, Pimples, Oily skin"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Sudden numbness, Loss of balance"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Cough, Sore throat, Mild fever, Sneezing, Runny nose"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Runny nose, Nasal congestion, Itchy eyes"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Fatigue, Lumps, Pain"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Chills, Fever"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Mild fever, Sore throat, Cough, Sneezing"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Severe headache, Confusion, Loss of balance, Trouble speaking, Sudden numbness"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Skin changes, Fatigue, Pain, Lumps"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Confusion, Fatigue"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Chest tightness, Shortness of breath, Wheezing, Coughing"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Pain in arm or jaw, Nausea, Shortness of breath, Chest pain, Sweating"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Confusion, Fatigue, Swelling, Shortness of breath"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Fatigue, Pain, Skin changes, Lumps"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Shortness of breath, Nosebleeds, Headaches"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Nausea, Throbbing pain"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Cough, Sneezing, Runny nose, Mild fever, Sore throat"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fatigue, Chills, Fever, Cough"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Fatigue, Eye strain"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Fatigue, Skin changes, Pain"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Rapid heart rate, Fever, Low blood pressure, Confusion"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Shortness of breath, Sweating, Chest pain"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Fatigue, Mucus, Chest discomfort, Persistent cough"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Nausea, Throbbing pain"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Shortness of breath, Headaches"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Fatigue, Eye strain"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fatigue, Fever"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Loss of balance, Confusion"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Itchy eyes, Nasal congestion, Runny nose"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Rapid heart rate, Difficulty breathing, Low blood pressure"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Increased thirst, Fatigue, Frequent urination, Blurred vision"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Fatigue, Blurred vision"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Runny nose, Sore throat, Cough, Mild fever, Sneezing"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Loss of balance, Severe headache, Trouble speaking"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Shortness of breath, Nausea, Sweating, Chest pain"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Rapid heart rate, Confusion"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Low blood pressure, Difficulty breathing, Confusion, Rapid heart rate, Fever"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Blurred vision, Frequent urination, Fatigue"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Fever, Difficulty breathing, Confusion, Low blood pressure, Rapid heart rate"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Dizziness"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Chest pain, Pain in arm or jaw, Shortness of breath"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Fatigue, Frequent urination"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Chest tightness, Coughing"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Lumps, Fatigue, Skin changes, Pain, Unexplained weight loss"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Itchy eyes, Runny nose"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Mild head pain"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Fatigue, Frequent urination, Blurred vision"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Fatigue, Increased thirst, Blurred vision, Frequent urination"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Sneezing, Itchy eyes"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Confusion, Trouble speaking, Loss of balance"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Shortness of breath, Headaches, Nosebleeds"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Severe headache, Confusion"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Coughing, Wheezing"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Fatigue, Eye strain"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Sneezing, Runny nose"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Fatigue, Swelling, Nausea"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Blurred vision, Increased thirst"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Fatigue, Chest discomfort"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Persistent cough, Chest discomfort, Mucus, Fatigue"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Fever, Rapid heart rate, Confusion"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Throbbing pain, Nausea"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Fatigue, Lumps, Skin changes"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Rapid heart rate, Difficulty breathing, Low blood pressure, Confusion"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Confusion, Trouble speaking"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Unexplained weight loss, Lumps, Skin changes"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Sweating, Pain in arm or jaw"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Confusion, Shortness of breath, Nausea"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Eye strain, Fatigue"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Severe headache, Loss of balance"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Lumps, Fatigue, Skin changes, Unexplained weight loss, Pain"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Chills, Fever, Cough"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Whiteheads"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Rapid heart rate, Confusion, Fever"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Loss of balance, Severe headache, Trouble speaking"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Severe headache, Sudden numbness, Loss of balance, Confusion"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Whiteheads"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Coughing, Wheezing, Chest tightness, Shortness of breath"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Fatigue, Nausea, Shortness of breath"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sneezing, Sore throat, Runny nose, Cough"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Fever, Confusion, Low blood pressure, Difficulty breathing"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Throbbing pain"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fatigue, Body aches, Fever, Cough, Chills"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Increased thirst"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sneezing, Mild fever, Cough"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Body aches, Fever"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Fatigue, Persistent cough, Chest discomfort, Mucus"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Difficulty breathing, Fever"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Persistent cough, Fatigue"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Dizziness, Shortness of breath"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Fatigue, Mild head pain"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sneezing, Cough, Sore throat, Mild fever, Runny nose"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Fatigue, Persistent cough"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Low blood pressure, Difficulty breathing"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Lumps, Pain"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Fatigue"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Body aches, Fatigue, Chills, Fever"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Fatigue, Frequent urination"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Mucus, Chest discomfort, Persistent cough"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Pain in arm or jaw, Sweating, Chest pain, Shortness of breath, Nausea"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Shortness of breath, Dizziness, Headaches"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Fatigue, Blurred vision, Increased thirst"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Chest tightness, Wheezing, Shortness of breath, Coughing"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sneezing, Mild fever"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fever, Body aches, Chills, Fatigue, Cough"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Cough, Fatigue"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Coughing, Wheezing, Shortness of breath, Chest tightness"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Fever, Low blood pressure, Rapid heart rate, Confusion, Difficulty breathing"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Skin changes"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Oily skin, Pimples, Whiteheads"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Skin changes, Unexplained weight loss, Pain, Lumps"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Coughing, Chest tightness, Shortness of breath, Wheezing"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Fatigue, Chest discomfort"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Low blood pressure, Fever, Difficulty breathing"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Nausea, Throbbing pain"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Throbbing pain, Nausea"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sneezing, Mild fever, Runny nose, Cough, Sore throat"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Whiteheads, Pimples, Oily skin"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Shortness of breath, Chest pain"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Low blood pressure, Rapid heart rate, Confusion, Fever"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Confusion, Sudden numbness, Loss of balance"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Severe headache, Loss of balance, Sudden numbness, Confusion"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Runny nose, Nasal congestion, Itchy eyes"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Blackheads, Whiteheads"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Headaches"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Shortness of breath, Dizziness, Nosebleeds, Headaches"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Oily skin, Whiteheads, Pimples, Blackheads"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Sensitivity to light and sound"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Runny nose, Sneezing, Nasal congestion"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Blurred vision, Fatigue, Increased thirst, Frequent urination"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Fatigue"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Fatigue, Unexplained weight loss, Skin changes"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Headaches, Shortness of breath, Nosebleeds"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Sweating, Nausea, Chest pain"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Fatigue, Mild head pain, Eye strain"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Severe headache, Loss of balance, Trouble speaking, Confusion, Sudden numbness"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Throbbing pain, Nausea"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Nausea, Chest pain, Shortness of breath"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Unexplained weight loss, Pain, Skin changes, Fatigue"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fever, Cough, Chills"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Mild fever, Runny nose"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Whiteheads, Blackheads, Oily skin, Pimples"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Fatigue"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Whiteheads, Oily skin"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Fatigue, Mucus"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Body aches, Fatigue"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Sneezing, Nasal congestion, Itchy eyes"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Chest tightness, Shortness of breath, Coughing"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Persistent cough, Mucus"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Itchy eyes, Sneezing"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Fatigue"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Difficulty breathing, Confusion, Low blood pressure, Rapid heart rate"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Shortness of breath, Dizziness, Nosebleeds"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Oily skin, Whiteheads"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Unexplained weight loss, Pain"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Trouble speaking, Severe headache"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Shortness of breath, Chest tightness"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Shortness of breath, Chest pain, Nausea, Pain in arm or jaw"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Runny nose, Itchy eyes, Sneezing"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sneezing, Cough"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Chills, Fever, Cough, Body aches"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Mild head pain"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Fatigue, Mild head pain"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Coughing, Chest tightness"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Fatigue, Persistent cough"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Severe headache, Sudden numbness, Confusion, Loss of balance, Trouble speaking"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Mild head pain, Fatigue"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Oily skin, Whiteheads"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Nausea, Chest pain"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Oily skin, Blackheads"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Sensitivity to light and sound"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Fatigue, Swelling"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Trouble speaking, Sudden numbness, Severe headache, Confusion, Loss of balance"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Severe headache, Loss of balance, Trouble speaking"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Runny nose, Itchy eyes"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Blurred vision, Frequent urination, Fatigue, Increased thirst"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Itchy eyes, Runny nose, Sneezing"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Blackheads, Pimples"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Sensitivity to light and sound"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Skin changes, Lumps"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Mild head pain"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Headaches, Dizziness, Shortness of breath"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Fatigue"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Nausea, Swelling, Shortness of breath, Fatigue"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Whiteheads"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Sweating, Pain in arm or jaw"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Mucus, Fatigue, Chest discomfort, Persistent cough"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Severe headache, Confusion"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Dizziness, Shortness of breath, Headaches"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Mild fever, Sneezing, Runny nose, Cough"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Trouble speaking, Severe headache, Sudden numbness"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Difficulty breathing, Rapid heart rate, Confusion"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Fever, Confusion, Difficulty breathing, Rapid heart rate, Low blood pressure"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fever, Chills, Cough, Body aches"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fever, Cough, Fatigue"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Unexplained weight loss, Fatigue, Skin changes"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fatigue, Cough, Chills, Body aches, Fever"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Nausea, Swelling, Shortness of breath, Fatigue"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Nasal congestion, Sneezing, Runny nose"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Blurred vision, Frequent urination, Increased thirst"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Difficulty breathing, Rapid heart rate, Confusion, Low blood pressure, Fever"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Mucus, Chest discomfort"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Fatigue, Swelling"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Blackheads, Pimples, Whiteheads, Oily skin"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Headaches, Shortness of breath, Dizziness"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Sensitivity to light and sound, Throbbing pain"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Nasal congestion, Itchy eyes, Sneezing"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Skin changes, Unexplained weight loss"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Swelling, Nausea, Shortness of breath, Fatigue, Confusion"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Fatigue, Swelling"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Runny nose, Mild fever, Sneezing, Cough"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Lumps, Skin changes"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Nasal congestion, Sneezing, Runny nose, Itchy eyes"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Eye strain, Fatigue"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Fever, Low blood pressure, Difficulty breathing"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Mild fever, Sneezing, Runny nose, Cough"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Oily skin, Blackheads"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Runny nose, Itchy eyes, Nasal congestion"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Blackheads, Oily skin"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Fatigue, Eye strain"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Fatigue, Chest discomfort, Mucus, Persistent cough"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Difficulty breathing, Low blood pressure, Confusion, Fever, Rapid heart rate"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Skin changes, Unexplained weight loss, Pain, Lumps, Fatigue"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Chest tightness, Wheezing"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Nausea, Confusion, Fatigue, Swelling, Shortness of breath"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Chest tightness, Wheezing, Coughing, Shortness of breath"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Fatigue, Pain, Skin changes, Unexplained weight loss"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Itchy eyes, Sneezing"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Coughing, Shortness of breath"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sore throat, Cough, Sneezing, Mild fever, Runny nose"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Unexplained weight loss, Skin changes, Lumps"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Shortness of breath, Wheezing, Chest tightness"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Sensitivity to light and sound, Throbbing pain"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Blackheads, Pimples, Oily skin"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Eye strain"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Sudden numbness, Loss of balance, Confusion, Severe headache, Trouble speaking"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Sudden numbness, Trouble speaking, Confusion, Loss of balance"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sore throat, Sneezing"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Chills, Fever, Cough, Fatigue"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Fatigue, Mild head pain"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Unexplained weight loss, Pain, Fatigue"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Shortness of breath, Chest pain, Nausea, Pain in arm or jaw, Sweating"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Blackheads, Whiteheads, Pimples, Oily skin"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Sensitivity to light and sound, Throbbing pain"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Increased thirst, Blurred vision, Fatigue, Frequent urination"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sneezing, Mild fever, Sore throat, Runny nose, Cough"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Sweating, Pain in arm or jaw, Nausea, Chest pain, Shortness of breath"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Itchy eyes, Sneezing"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Mild fever, Sore throat"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Chills, Fever"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Shortness of breath, Headaches, Dizziness"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Oily skin, Whiteheads, Blackheads"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Fatigue, Persistent cough"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Swelling, Fatigue, Shortness of breath, Nausea"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Runny nose, Itchy eyes, Nasal congestion"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Skin changes, Fatigue, Pain, Lumps"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Sweating, Pain in arm or jaw, Chest pain, Shortness of breath, Nausea"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Fatigue, Eye strain"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Itchy eyes, Runny nose"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fever, Body aches"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Whiteheads"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Confusion, Swelling, Shortness of breath, Fatigue"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Fatigue, Eye strain"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Cough, Fatigue, Fever, Chills"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Fatigue"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Cough, Body aches, Fever"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Chest discomfort, Persistent cough, Mucus, Fatigue"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Fatigue, Confusion, Shortness of breath, Swelling"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Eye strain"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Headaches, Shortness of breath"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fever, Body aches, Fatigue"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Fatigue"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Fatigue, Increased thirst, Frequent urination, Blurred vision"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Sensitivity to light and sound, Throbbing pain"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Mucus, Chest discomfort, Fatigue, Persistent cough"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Sudden numbness, Confusion, Severe headache, Trouble speaking"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Nausea, Sweating, Shortness of breath, Chest pain, Pain in arm or jaw"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Skin changes, Lumps, Fatigue, Unexplained weight loss, Pain"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Severe headache, Sudden numbness, Trouble speaking"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Nasal congestion, Itchy eyes, Sneezing"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fever, Cough, Fatigue, Body aches"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Nasal congestion, Runny nose"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Cough, Fatigue"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Rapid heart rate"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Body aches, Chills"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Persistent cough, Fatigue"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Nasal congestion, Sneezing, Itchy eyes, Runny nose"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Fatigue, Mild head pain"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Itchy eyes, Sneezing, Nasal congestion, Runny nose"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Runny nose, Sore throat, Sneezing"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Nausea, Throbbing pain"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Chest tightness, Shortness of breath"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Eye strain, Fatigue"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Shortness of breath"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Coughing, Wheezing"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Rapid heart rate, Difficulty breathing"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Dizziness, Shortness of breath"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Runny nose, Nasal congestion, Itchy eyes, Sneezing"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Whiteheads, Oily skin"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Oily skin, Whiteheads"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Unexplained weight loss, Fatigue, Skin changes"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Shortness of breath, Headaches, Dizziness"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Shortness of breath, Headaches, Nosebleeds"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Throbbing pain"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Shortness of breath, Headaches, Nosebleeds"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Pain in arm or jaw, Chest pain, Nausea, Shortness of breath, Sweating"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Increased thirst, Fatigue, Frequent urination"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fatigue, Body aches, Chills"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Cough, Sore throat"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Shortness of breath, Headaches, Nosebleeds"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Coughing, Shortness of breath, Chest tightness"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Fatigue, Skin changes, Unexplained weight loss, Pain, Lumps"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Shortness of breath, Headaches, Nosebleeds"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Cough, Mild fever"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Eye strain, Fatigue"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Fatigue, Mild head pain"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Oily skin, Pimples, Whiteheads"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Pain in arm or jaw, Nausea"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Dizziness, Shortness of breath, Nosebleeds"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Skin changes, Unexplained weight loss, Lumps, Fatigue, Pain"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Oily skin, Pimples, Blackheads"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Lumps, Unexplained weight loss, Fatigue, Pain, Skin changes"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Nausea, Throbbing pain"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Mucus, Fatigue, Persistent cough"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Shortness of breath, Coughing, Chest tightness"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Trouble speaking, Severe headache, Confusion"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Fatigue, Frequent urination"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Itchy eyes, Nasal congestion, Runny nose, Sneezing"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Loss of balance, Confusion"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Swelling, Nausea, Shortness of breath, Fatigue"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Sensitivity to light and sound"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Persistent cough, Chest discomfort"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Cough, Body aches"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Blackheads, Whiteheads, Oily skin"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Mucus, Chest discomfort, Fatigue, Persistent cough"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Difficulty breathing, Low blood pressure, Fever, Confusion"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Throbbing pain"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Oily skin, Pimples, Whiteheads, Blackheads"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Shortness of breath, Pain in arm or jaw, Chest pain, Nausea, Sweating"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sneezing, Runny nose"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Unexplained weight loss, Pain, Lumps, Skin changes, Fatigue"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Chest tightness, Coughing"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Nausea, Sweating, Chest pain"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Mucus, Persistent cough, Chest discomfort"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Coughing, Shortness of breath, Chest tightness"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Throbbing pain, Sensitivity to light and sound"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Dizziness, Shortness of breath, Headaches"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Mucus, Chest discomfort"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Mild head pain, Fatigue"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Shortness of breath, Swelling, Fatigue"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Fatigue, Mild head pain, Eye strain"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Mild head pain, Fatigue"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Confusion, Shortness of breath"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Runny nose, Itchy eyes, Sneezing"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Skin changes, Fatigue"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Fatigue, Frequent urination"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Cough, Fatigue, Chills, Body aches, Fever"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Nasal congestion, Itchy eyes"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fatigue, Body aches, Chills"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Shortness of breath, Dizziness, Nosebleeds, Headaches"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Shortness of breath, Wheezing, Chest tightness"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Shortness of breath, Chest tightness"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Shortness of breath, Pain in arm or jaw, Chest pain, Nausea"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Fever, Low blood pressure"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Shortness of breath, Nosebleeds, Dizziness"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Sneezing, Runny nose"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Mucus, Persistent cough"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Throbbing pain, Nausea"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Blurred vision, Increased thirst, Fatigue, Frequent urination"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Sensitivity to light and sound"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Difficulty breathing, Fever, Confusion, Low blood pressure, Rapid heart rate"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Chest pain, Sweating"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Oily skin, Blackheads, Pimples, Whiteheads"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Fatigue, Increased thirst, Frequent urination"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Dizziness"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Chest tightness, Wheezing, Coughing, Shortness of breath"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Nausea"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Low blood pressure, Rapid heart rate, Fever, Confusion, Difficulty breathing"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Skin changes, Lumps, Fatigue"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Nausea, Chest pain"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Cough, Sneezing"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Fatigue, Frequent urination, Blurred vision, Increased thirst"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Runny nose, Sneezing"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Fatigue, Lumps"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Shortness of breath, Chest tightness"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Sudden numbness, Confusion, Severe headache, Loss of balance"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Mild fever, Cough, Sneezing, Runny nose"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Nasal congestion, Runny nose"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Fatigue"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Fatigue, Skin changes"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Lumps, Unexplained weight loss, Skin changes"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Mild head pain, Fatigue"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Unexplained weight loss, Fatigue, Lumps, Skin changes"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Trouble speaking, Loss of balance, Severe headache"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Chest pain, Sweating, Shortness of breath, Nausea, Pain in arm or jaw"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Nausea, Shortness of breath, Fatigue, Confusion, Swelling"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Chest discomfort, Mucus, Persistent cough, Fatigue"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Difficulty breathing, Fever"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Runny nose, Itchy eyes"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Shortness of breath, Chest pain, Pain in arm or jaw, Nausea"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Fatigue, Eye strain"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Loss of balance, Confusion"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Oily skin, Whiteheads"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Sudden numbness, Loss of balance, Severe headache"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Sudden numbness, Severe headache, Confusion"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Confusion, Loss of balance, Trouble speaking"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Lumps, Unexplained weight loss, Skin changes, Pain"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Whiteheads, Pimples"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Fatigue, Confusion, Swelling, Nausea, Shortness of breath"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Shortness of breath, Nosebleeds, Dizziness, Headaches"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Coughing"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Blurred vision, Increased thirst"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Skin changes"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Low blood pressure, Rapid heart rate, Difficulty breathing"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Mild fever, Sneezing"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Blackheads"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Shortness of breath, Nausea"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Pain in arm or jaw, Sweating, Shortness of breath, Nausea"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Loss of balance, Sudden numbness"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Whiteheads, Blackheads, Oily skin"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Rapid heart rate"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fever, Chills"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Chills, Cough, Fatigue, Fever, Body aches"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Increased thirst, Frequent urination, Fatigue, Blurred vision"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Chest tightness, Wheezing"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Body aches, Chills, Cough, Fatigue"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sore throat, Cough, Mild fever"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Fatigue, Blurred vision"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Sweating, Pain in arm or jaw, Chest pain, Nausea, Shortness of breath"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Pain in arm or jaw, Chest pain"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Nausea, Sensitivity to light and sound"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Sneezing, Itchy eyes, Nasal congestion, Runny nose"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Cough, Runny nose, Sore throat, Mild fever, Sneezing"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Mild fever, Runny nose, Cough, Sore throat"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Skin changes, Unexplained weight loss, Lumps"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Swelling, Shortness of breath"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Fever, Difficulty breathing, Rapid heart rate, Confusion, Low blood pressure"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Cough, Sore throat, Sneezing"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Rapid heart rate"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Nosebleeds"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fever, Body aches, Fatigue, Cough"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Shortness of breath, Chest tightness, Wheezing, Coughing"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Fatigue, Confusion"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Mild head pain"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Chest pain, Nausea"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Oily skin, Whiteheads"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Nasal congestion, Runny nose, Sneezing, Itchy eyes"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Whiteheads, Pimples, Blackheads, Oily skin"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Shortness of breath, Nausea, Swelling"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Runny nose, Cough"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Unexplained weight loss, Lumps, Fatigue, Pain"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Mucus, Persistent cough, Chest discomfort"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Cough, Body aches"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Nosebleeds"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Chest discomfort, Persistent cough, Fatigue"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Chest discomfort, Persistent cough, Mucus, Fatigue"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Fatigue, Unexplained weight loss"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Fatigue, Lumps, Skin changes, Pain"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Sudden numbness, Loss of balance, Trouble speaking, Severe headache, Confusion"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Shortness of breath, Wheezing, Coughing"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Mild fever, Sneezing, Runny nose"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Blackheads, Pimples, Oily skin, Whiteheads"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Lumps, Pain"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Coughing, Chest tightness"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Whiteheads, Oily skin"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Unexplained weight loss, Skin changes, Lumps"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sore throat, Mild fever, Cough"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Persistent cough, Fatigue"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Nasal congestion, Runny nose, Sneezing, Itchy eyes"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Throbbing pain"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Throbbing pain"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fatigue, Body aches, Cough, Fever"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Fatigue"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Shortness of breath, Headaches, Nosebleeds, Dizziness"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Mild head pain"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Blurred vision, Fatigue"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sneezing, Mild fever, Runny nose, Sore throat"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Nausea, Shortness of breath, Sweating, Chest pain"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Loss of balance, Severe headache"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Chest pain, Sweating"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Persistent cough, Chest discomfort, Mucus, Fatigue"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sneezing, Cough, Sore throat"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Increased thirst, Frequent urination, Fatigue, Blurred vision"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Confusion, Sudden numbness"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Nausea, Sweating"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Fever, Difficulty breathing, Low blood pressure, Rapid heart rate"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Sneezing, Nasal congestion"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Eye strain, Fatigue"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Shortness of breath, Nausea, Chest pain, Pain in arm or jaw, Sweating"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Difficulty breathing, Rapid heart rate, Low blood pressure, Confusion"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Eye strain, Fatigue"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Nausea, Sweating, Shortness of breath, Chest pain"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Whiteheads, Oily skin, Blackheads"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Fatigue"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Persistent cough, Fatigue, Chest discomfort"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Severe headache, Confusion, Loss of balance, Sudden numbness"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Fatigue, Unexplained weight loss, Skin changes, Pain"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Throbbing pain, Sensitivity to light and sound"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Mild head pain, Fatigue"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Skin changes, Pain, Lumps, Fatigue"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Shortness of breath, Dizziness, Nosebleeds"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Persistent cough, Fatigue, Mucus"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Sudden numbness, Trouble speaking, Severe headache, Confusion, Loss of balance"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Confusion, Swelling, Fatigue, Nausea, Shortness of breath"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Shortness of breath, Wheezing, Coughing, Chest tightness"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Fatigue"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Shortness of breath, Chest tightness, Coughing"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Throbbing pain"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Shortness of breath, Sweating, Pain in arm or jaw, Nausea"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Blurred vision, Fatigue, Increased thirst, Frequent urination"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Eye strain, Fatigue"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Chest pain, Shortness of breath, Pain in arm or jaw, Sweating"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Nausea, Sweating, Shortness of breath, Pain in arm or jaw"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Fatigue, Chest discomfort, Persistent cough"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Mild head pain, Fatigue"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Increased thirst, Blurred vision"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Nausea, Sensitivity to light and sound"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Severe headache, Confusion, Loss of balance"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Difficulty breathing, Rapid heart rate, Confusion"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Fatigue, Unexplained weight loss, Pain, Skin changes, Lumps"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Nosebleeds, Dizziness"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Shortness of breath, Chest tightness"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Runny nose, Sneezing"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Confusion, Loss of balance, Trouble speaking, Severe headache, Sudden numbness"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Coughing, Wheezing"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Blurred vision, Increased thirst"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Persistent cough, Fatigue, Mucus"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Eye strain"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Blackheads"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Mucus, Chest discomfort"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Chills, Body aches, Fatigue, Fever, Cough"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Shortness of breath, Chest tightness"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Lumps, Unexplained weight loss, Skin changes, Fatigue"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Fatigue"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Difficulty breathing, Rapid heart rate, Fever"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Chills, Fatigue"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sore throat, Runny nose, Mild fever, Sneezing, Cough"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Fatigue, Mucus, Chest discomfort, Persistent cough"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Pain, Fatigue, Skin changes"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Shortness of breath, Confusion, Nausea, Swelling"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Fatigue, Increased thirst"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Sensitivity to light and sound, Throbbing pain"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Low blood pressure, Fever, Confusion, Difficulty breathing, Rapid heart rate"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Sudden numbness, Severe headache, Confusion"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fatigue, Chills, Body aches, Cough, Fever"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Shortness of breath, Fatigue, Swelling"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Blurred vision, Fatigue"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Eye strain"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Headaches"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Nausea, Fatigue"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Shortness of breath, Dizziness, Headaches"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Nausea, Pain in arm or jaw, Sweating, Shortness of breath, Chest pain"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Itchy eyes, Runny nose, Nasal congestion, Sneezing"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fatigue, Body aches, Chills, Cough"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Swelling, Shortness of breath"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Sensitivity to light and sound, Throbbing pain"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Difficulty breathing, Rapid heart rate, Fever"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Sweating, Pain in arm or jaw, Nausea"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Blurred vision, Fatigue"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Chest discomfort, Fatigue"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Eye strain, Fatigue"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Nasal congestion, Runny nose"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Shortness of breath, Swelling, Confusion"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fatigue, Cough, Chills, Body aches, Fever"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Fever"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Low blood pressure, Fever, Difficulty breathing, Rapid heart rate, Confusion"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Trouble speaking, Sudden numbness, Confusion"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Sudden numbness, Severe headache, Loss of balance"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Headaches, Shortness of breath, Nosebleeds"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Fatigue, Nausea, Confusion, Shortness of breath, Swelling"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Sudden numbness, Loss of balance, Confusion"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Difficulty breathing, Rapid heart rate, Fever, Low blood pressure"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Cough, Sneezing, Mild fever, Sore throat, Runny nose"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Shortness of breath, Headaches"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Blackheads"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Coughing, Shortness of breath, Wheezing"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Sudden numbness, Severe headache, Confusion, Trouble speaking, Loss of balance"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Throbbing pain"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Chest pain, Nausea, Sweating, Shortness of breath"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Coughing, Shortness of breath"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Difficulty breathing, Rapid heart rate"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Oily skin, Pimples, Whiteheads"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Headaches, Dizziness"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Blackheads, Oily skin, Pimples"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Headaches, Dizziness"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Nasal congestion, Sneezing, Runny nose, Itchy eyes"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Loss of balance, Confusion, Severe headache"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Increased thirst, Blurred vision, Fatigue"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Persistent cough, Mucus, Fatigue"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Loss of balance, Sudden numbness, Trouble speaking, Confusion"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sore throat, Runny nose, Mild fever, Cough, Sneezing"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Mucus, Fatigue, Persistent cough"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Swelling, Nausea"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Dizziness, Nosebleeds"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Eye strain"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Fatigue, Mild head pain, Eye strain"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Mild head pain, Eye strain"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Difficulty breathing, Confusion, Fever, Low blood pressure"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Nausea, Throbbing pain"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Shortness of breath"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Blurred vision, Fatigue"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Rapid heart rate, Low blood pressure, Difficulty breathing"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Confusion, Shortness of breath, Nausea"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Blurred vision, Fatigue, Increased thirst"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Confusion, Nausea, Fatigue, Swelling"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Fatigue"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Headaches"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Fatigue, Blurred vision"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Confusion, Loss of balance, Sudden numbness, Severe headache"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Dizziness"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Rapid heart rate, Difficulty breathing, Low blood pressure"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Headaches"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Fatigue, Mild head pain"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Chest tightness, Wheezing, Shortness of breath"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Mucus, Fatigue"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Nosebleeds"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fatigue, Cough, Chills"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Runny nose, Mild fever, Cough, Sneezing"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Itchy eyes, Sneezing, Runny nose"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Chills, Cough, Fever, Fatigue, Body aches"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Oily skin, Pimples"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Nasal congestion, Sneezing"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Increased thirst, Blurred vision, Fatigue, Frequent urination"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Blackheads, Whiteheads, Oily skin"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Skin changes, Unexplained weight loss"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Blurred vision, Increased thirst"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Severe headache, Sudden numbness, Loss of balance, Trouble speaking, Confusion"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Sneezing, Runny nose, Nasal congestion"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Unexplained weight loss, Lumps, Fatigue, Skin changes, Pain"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Sensitivity to light and sound, Nausea"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Mucus, Fatigue, Persistent cough, Chest discomfort"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Chest discomfort, Fatigue"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Mucus, Fatigue"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Sensitivity to light and sound"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Blackheads, Whiteheads"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Nausea, Chest pain, Sweating, Pain in arm or jaw"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Lumps, Unexplained weight loss"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Shortness of breath, Dizziness, Headaches, Nosebleeds"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Fatigue, Increased thirst, Frequent urination, Blurred vision"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Shortness of breath, Headaches"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Dizziness, Headaches"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Rapid heart rate"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Sweating, Shortness of breath, Chest pain, Pain in arm or jaw, Nausea"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Nosebleeds, Headaches, Shortness of breath, Dizziness"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Nausea, Shortness of breath, Chest pain, Sweating, Pain in arm or jaw"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Fatigue, Mucus"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Sneezing, Nasal congestion"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Oily skin, Whiteheads, Pimples"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Headaches"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Rapid heart rate, Confusion, Fever"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Shortness of breath, Nosebleeds"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Mild fever, Cough, Sore throat, Runny nose"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Shortness of breath, Nausea, Chest pain, Sweating"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Oily skin, Pimples, Whiteheads, Blackheads"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Oily skin, Whiteheads, Blackheads"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Fever, Rapid heart rate, Difficulty breathing, Confusion"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Chest tightness, Coughing"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Oily skin, Pimples, Blackheads"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Coughing, Chest tightness, Shortness of breath"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Shortness of breath, Nausea, Chest pain"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Nausea"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Body aches, Fever, Fatigue, Cough"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": "Nasal congestion, Itchy eyes"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Dizziness"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Sudden numbness, Severe headache, Trouble speaking, Confusion, Loss of balance"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Chest discomfort, Persistent cough"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Throbbing pain, Nausea"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Swelling, Nausea, Confusion, Shortness of breath, Fatigue"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Runny nose, Sneezing, Cough"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Nosebleeds, Headaches"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Throbbing pain, Sensitivity to light and sound"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Nosebleeds, Headaches, Shortness of breath"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sneezing, Cough, Runny nose, Sore throat"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Whiteheads, Blackheads"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": "Persistent cough, Mucus"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Lumps, Unexplained weight loss, Fatigue, Pain"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Wheezing, Chest tightness, Coughing, Shortness of breath"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Mild head pain"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Shortness of breath, Fatigue, Swelling, Nausea, Confusion"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Difficulty breathing, Fever, Rapid heart rate"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Dizziness, Headaches"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Oily skin, Blackheads, Pimples"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Nosebleeds, Dizziness"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": "Sore throat, Sneezing, Runny nose, Cough"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Blackheads, Oily skin, Pimples, Whiteheads"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": "Coughing, Shortness of breath, Chest tightness, Wheezing"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Shortness of breath, Nosebleeds, Dizziness"
+  },
+  {
+    "disease": "Diabetes Type 2",
+    "symptoms": "Frequent urination, Increased thirst, Fatigue"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fever, Cough, Body aches"
+  },
+  {
+    "disease": "Mild Headache",
+    "symptoms": "Eye strain, Mild head pain, Fatigue"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Whiteheads, Blackheads, Pimples"
+  },
+  {
+    "disease": "Kidney Failure",
+    "symptoms": "Shortness of breath, Nausea, Fatigue, Swelling, Confusion"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": "Nausea, Throbbing pain"
+  },
+  {
+    "disease": "Seasonal Flu",
+    "symptoms": "Fever, Fatigue"
+  },
+  {
+    "disease": "Heart Attack",
+    "symptoms": "Shortness of breath, Nausea, Sweating, Chest pain, Pain in arm or jaw"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": "Confusion, Loss of balance, Severe headache, Sudden numbness, Trouble speaking"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": "Confusion, Low blood pressure"
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": "Headaches, Dizziness"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Whiteheads, Blackheads, Oily skin"
+  },
+  {
+    "disease": "Cancer",
+    "symptoms": "Unexplained weight loss, Skin changes"
+  },
+  {
+    "disease": "Acne",
+    "symptoms": "Pimples, Blackheads, Oily skin"
+  }
+]

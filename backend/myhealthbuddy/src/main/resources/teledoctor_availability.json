@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. John Smith",
+    "specialist": "General Physician",
+    "location": "Online",
+    "slots": [
+      "2025-05-02T10:00:00",
+      "2025-05-02T14:00:00",
+      "2025-05-01T19:00:00",
+      "2025-05-02T21:00:00"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Emily Davis",
+    "specialist": "General Physician",
+    "location": "Online",
+    "slots": [
+      "2025-05-01T16:00:00",
+      "2025-05-01T18:00:00",
+      "2025-05-01T22:00:00",
+      "2025-05-02T17:00:00"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dr. Rajesh Kumar",
+    "specialist": "ENT Doctor",
+    "location": "Online",
+    "slots": [
+      "2025-05-02T11:00:00",
+      "2025-05-02T15:00:00",
+      "2025-05-01T20:00:00",
+      "2025-05-02T23:00:00"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dr. Aisha Malik",
+    "specialist": "ENT Doctor",
+    "location": "Online",
+    "slots": [
+      "2025-05-01T08:00:00",
+      "2025-05-01T10:00:00",
+      "2025-05-01T13:00:00",
+      "2025-05-02T19:00:00"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Dr. Priya Sharma",
+    "specialist": "Skin Specialist",
+    "location": "Online",
+    "slots": [
+      "2025-05-02T09:00:00",
+      "2025-05-02T12:00:00",
+      "2025-05-01T15:00:00",
+      "2025-05-02T20:00:00"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Dr. Akash Gupta",
+    "specialist": "Skin Specialist",
+    "location": "Online",
+    "slots": [
+      "2025-05-01T17:00:00",
+      "2025-05-01T21:00:00",
+      "2025-05-02T10:00:00",
+      "2025-05-02T22:00:00"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Dr. Maria Lopez",
+    "specialist": "Pediatrician",
+    "location": "Online",
+    "slots": [
+      "2025-05-02T14:00:00",
+      "2025-05-01T13:00:00",
+      "2025-05-02T18:00:00",
+      "2025-05-02T23:00:00"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Dr. Deepak Yadav",
+    "specialist": "Pediatrician",
+    "location": "Online",
+    "slots": [
+      "2025-05-01T10:00:00",
+      "2025-05-01T16:00:00",
+      "2025-05-02T08:00:00",
+      "2025-05-02T17:00:00"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Dr. Sophia Zhang",
+    "specialist": "Gynecologist",
+    "location": "Online",
+    "slots": [
+      "2025-05-02T11:00:00",
+      "2025-05-01T14:00:00",
+      "2025-05-02T16:00:00",
+      "2025-05-02T21:00:00"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Dr. Ananya Verma",
+    "specialist": "Gynecologist",
+    "location": "Online",
+    "slots": [
+      "2025-05-01T12:00:00",
+      "2025-05-01T19:00:00",
+      "2025-05-02T08:00:00",
+      "2025-05-02T18:00:00"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Dr. Harish Patel",
+    "specialist": "Orthopedic",
+    "location": "Online",
+    "slots": [
+      "2025-05-01T08:00:00",
+      "2025-05-01T18:00:00",
+      "2025-05-02T14:00:00",
+      "2025-05-02T20:00:00"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Dr. Meera Nair",
+    "specialist": "Orthopedic",
+    "location": "Online",
+    "slots": [
+      "2025-05-02T13:00:00",
+      "2025-05-01T16:00:00",
+      "2025-05-02T17:00:00",
+      "2025-05-01T22:00:00"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Dr. Ramesh Kumar",
+    "specialist": "Dentist",
+    "location": "Online",
+    "slots": [
+      "2025-05-02T10:00:00",
+      "2025-05-01T11:00:00",
+      "2025-05-02T20:00:00",
+      "2025-05-02T23:00:00"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Dr. Aditi Verma",
+    "specialist": "Dentist",
+    "location": "Online",
+    "slots": [
+      "2025-05-01T10:00:00",
+      "2025-05-01T14:00:00",
+      "2025-05-02T09:00:00",
+      "2025-05-02T15:00:00"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Dr. Sunil Mehta",
+    "specialist": "General Physician",
+    "location": "Online",
+    "slots": [
+      "2025-05-01T16:00:00",
+      "2025-05-01T21:00:00",
+      "2025-05-02T14:00:00",
+      "2025-05-02T22:00:00"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Dr. Zara Ahmed",
+    "specialist": "Skin Specialist",
+    "location": "Online",
+    "slots": [
+      "2025-05-01T10:00:00",
+      "2025-05-01T13:00:00",
+      "2025-05-02T15:00:00",
+      "2025-05-02T23:00:00"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Dr. Vikram Singh",
+    "specialist": "Psychiatrist",
+    "location": "Online",
+    "slots": [
+      "2025-05-02T10:00:00",
+      "2025-05-01T18:00:00",
+      "2025-05-02T21:00:00",
+      "2025-05-02T19:00:00"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Dr. Anupama Joshi",
+    "specialist": "Psychiatrist",
+    "location": "Online",
+    "slots": [
+      "2025-05-02T17:00:00",
+      "2025-05-01T15:00:00",
+      "2025-05-01T21:00:00",
+      "2025-05-02T19:00:00"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Dr. Ravi Shankar",
+    "specialist": "General Physician",
+    "location": "Online",
+    "slots": [
+      "2025-05-01T16:00:00",
+      "2025-05-01T23:00:00",
+      "2025-05-02T09:00:00",
+      "2025-05-02T13:00:00"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Dr. Neha Sethi",
+    "specialist": "Gynecologist",
+    "location": "Online",
+    "slots": [
+      "2025-05-01T08:00:00",
+      "2025-05-02T14:00:00",
+      "2025-05-02T20:00:00",
+      "2025-05-02T22:00:00"
+    ]
+  }
+]
