@@ -35,6 +35,19 @@
 7. **Summarize Case** – Agent provides a complete summary and next steps to the patient.
 
 ---
+
+**DEMO VIDEO**
+
+FullVideo: https://drive.google.com/file/d/10GREaisLEkamrfNBmPDN4hbtCtbRGGWb/view?usp=sharing
+ShortVideo: https://drive.google.com/file/d/1KCg4r9U4PIzMPRV47FbzRhGrppUZptAS/view?usp=sharing
+
+**Images**
+
+<img width="1056" alt="image" src="https://github.com/user-attachments/assets/dbc7796a-6823-458a-9aa8-adc4b56fce15" />
+
+<img width="1035" alt="image" src="https://github.com/user-attachments/assets/d94f0787-6f12-42c6-9d72-8b31b3d7c6e8" />
+
+
 ![image](https://github.com/user-attachments/assets/f4cf70f4-6a55-46d8-bf80-5ccd6c63e8c4)
 
 ## 🏗️ System Architecture
