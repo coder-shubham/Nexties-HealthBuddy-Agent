@@ -31,10 +31,11 @@
 6. **Execute Actions** – Based on category:
    - Book teleconsultation (`TeleconsultationTool`)
    - Schedule doctor visit (`DoctorTool`)
-   - Trigger emergency protocol (`EmergencyServiceTool` + Azure Maps)
+   - Trigger emergency protocol (`EmergencyServiceTool`)
 7. **Summarize Case** – Agent provides a complete summary and next steps to the patient.
 
 ---
+![image](https://github.com/user-attachments/assets/f4cf70f4-6a55-46d8-bf80-5ccd6c63e8c4)
 
 ## 🏗️ System Architecture
 
@@ -74,6 +75,115 @@
 - Used to reduce unnecessary LLM token usage.
 - Keeps session-local symptom data contextually retrievable.
 
+
+**Project Structure**:
+/backend
+
+ ├── agent/
+ │   ├── HealthAgent.java
+ │   └── tools/
+ │       ├── PatientTool.java
+ │       ├── DoctorTool.java
+ │       ├── SymptomTool.java
+ │       ├── EmergencyServiceTool.java
+ │       └── TeleconsultationTool.java
+ ├── config/
+ │   ├── LangChainConfig.java
+ │   └── AzureMapConfig.java
+ ├── service/
+ │   └── PatientService.java
+ ├── web/
+ │   └── WebSocketHandler.java
+
+
+ ## 🧰 Technology Stack
+
+| Technology         | Purpose                                                                 |
+|--------------------|-------------------------------------------------------------------------|
+| **Java 17**         | Backend application development.                                       |
+| **Spring Boot**     | REST API framework for AI agent interaction.                           |
+| **Gradle 3.5+**     | Build automation and dependency management.                            |
+| **LangChain4j**     | Integrating LLM agents with structured tools in Java.                  |
+| **Azure AI Service**| Provides LLM (GPT-4o) for reasoning and dialogue flow.                 |
+| **JavaScript**      | Enables interactive frontend functionality.                            |
+| **React**           | Frontend UI framework for chat and form interface.                     |
+| **HTML/CSS**        | Structure and styling of the web interface.                            |
+| **LangChain InMemory RAG** | Enables retrieval of medical data from embedded sources.        |
+
+---
+
+## 📁 Project Structure
+
+```
+Repository Root
+├── backend/
+│   └── myhealthbuddy/
+│       ├── src/
+│       │   ├── main/
+│       │   │   ├── java/                  → Java source code
+│       │   │   └── resources/
+│       │   │       └── application.properties  → App config
+│       └── build.gradle                  → Build script
+└── ui/                                   → React-based frontend
+```
+
+---
+
+## 🚀 Execution Steps
+
+### 🖥️ Backend Setup
+
+1. **Get Azure OpenAI credentials** from [https://ai.azure.com/](https://ai.azure.com/)
+   - `AZURE_OPENAI_API_KEY`
+   - `AZURE_OPENAI_ENDPOINT`
+   - Model name (e.g., `gpt-4o`)
+
+2. **Update Environment Config**
+   Set in `application.properties` or environment variables:
+   ```
+   AZURE_OPENAI_API_KEY=<your-key>
+   AZURE_OPENAI_ENDPOINT=<your-endpoint>
+   LANGCHAIN_MODEL_NAME=gpt-4o
+   ```
+
+3. **Navigate to Backend Directory**
+   ```bash
+   cd backend/myhealthbuddy
+   ```
+
+4. **Run Application**
+   Using terminal:
+   ```bash
+   ./gradlew build -x test     # Build the project without running tests
+   ./gradlew bootRun           # Start backend server
+   ```
+   Or run directly from IntelliJ or VS Code.
+
+   > Server runs at `http://localhost:8100`
+
+---
+
+### 🌐 Frontend Setup
+
+1. **Ensure Node.js and npm are installed**
+
+2. **Navigate to UI Directory**
+   ```bash
+   cd ui/
+   ```
+
+3. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+
+4. **Run the App**
+   ```bash
+   npm run build   # Optional, for production build
+   npm run dev     # Starts the development server
+   ```
+
+   > UI accessible at `http://localhost:5173`
 
 ## 🎯 Target Audience
 
