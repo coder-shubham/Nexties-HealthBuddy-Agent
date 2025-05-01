@@ -76,26 +76,6 @@
 - Keeps session-local symptom data contextually retrievable.
 
 
-**Project Structure**:
-/backend
-
- ├── agent/
- │   ├── HealthAgent.java
- │   └── tools/
- │       ├── PatientTool.java
- │       ├── DoctorTool.java
- │       ├── SymptomTool.java
- │       ├── EmergencyServiceTool.java
- │       └── TeleconsultationTool.java
- ├── config/
- │   ├── LangChainConfig.java
- │   └── AzureMapConfig.java
- ├── service/
- │   └── PatientService.java
- ├── web/
- │   └── WebSocketHandler.java
-
-
  ## 🧰 Technology Stack
 
 | Technology         | Purpose                                                                 |
