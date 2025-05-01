@@ -72,8 +72,6 @@ public class DoctorTool {
                 .filter(d -> hasMatchingSlot(d.slots(), date))
                 .findFirst()
                 .orElse(null);
-//        return new Doctor(1, doctorName, "Cardiologist",
-//                "New York", List.of("2025-05-01T10:00:00", "2025-05-01T11:00:00"));
     }
 
 

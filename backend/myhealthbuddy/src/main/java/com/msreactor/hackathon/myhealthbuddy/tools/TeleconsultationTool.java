@@ -49,12 +49,6 @@ public class TeleconsultationTool {
                 .limit(3)
                 .collect(Collectors.toList());
 
-//        return List.of(
-//                new Doctor(1, "Dr. John Doe", "Cardiologist",
-//                        "Online", List.of("2025-05-01T10:00:00", "2025-05-01T11:00:00")),
-//                new Doctor(2, "Dr. Jane Smith", "Dermatologist", "Online",
-//                        List.of("2025-05-01T12:00:00", "2025-05-01T13:00:00"))
-//        );
 
     }
 

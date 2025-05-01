@@ -147,13 +147,11 @@ public class PatientTool {
     @Tool(
             name = "CreatePatientTool",
             value = "This tool is used to create a new patient. "
-                    + "Input should be in the format: 'name: <name>, ageGroup: <age_group>, location: <location>'"
+                    + "Input should be in the format: 'name: <name>, ageGroup: <age_group>, location: <location>, mobileNumber: <mobile_number>'"
     )
-    public Patient createPatient(String name, String ageGroup, String location) {
-        // Logic to create a new patient
-        // This is a placeholder implementation
+    public Patient createPatient(String name, String ageGroup, String location, String mobileNumber) {
         Integer newId = patients.size() + 1;
-        Patient newPatient = new Patient(newId, name, ageGroup, location, "55500000");
+        Patient newPatient = new Patient(newId, name, ageGroup, location, mobileNumber);
         patients.add(newPatient); // Adding to the list (simulating database insertion)
         System.out.println("Creating patient with name: " + name + ", age group: " + ageGroup + ", location: " + location);
         return newPatient;

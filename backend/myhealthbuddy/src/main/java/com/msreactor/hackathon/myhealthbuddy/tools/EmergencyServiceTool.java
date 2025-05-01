@@ -27,8 +27,7 @@ public class EmergencyServiceTool {
                     + "Output will be the details of the booked ambulance service."
     )
     public EmergencyService bookAmbulance(Integer patientId, Integer patientSymptomSummaryId, String location) {
-        // Logic to book an ambulance
-        // This is a placeholder implementation
+
         System.out.println("Booking ambulance for patient ID: " + patientId + " at location: " + location +
                 " with symptom summary ID: " + patientSymptomSummaryId);
 

@@ -68,8 +68,6 @@ public class HealthBuddyAgentConfiguration {
 
     @Bean
     EmbeddingModel embeddingModel() {
-        // You can use any embedding model you want.
-        // For example, you can use OpenAI's text-embedding-ada-002 model.
         return new AllMiniLmL6V2EmbeddingModel();
     }
 
@@ -111,10 +109,7 @@ public class HealthBuddyAgentConfiguration {
     @Bean
     ContentRetriever contentRetriever(EmbeddingStore<TextSegment> embeddingStore, EmbeddingModel embeddingModel) {
 
-        // You will need to adjust these parameters to find the optimal setting,
-        // which will depend on multiple factors, for example:
-        // - The nature of your data
-        // - The embedding model you are using
+        //Handling retrieval from Tool so we attach the embedding store to the retriever only if required
         return null;
     }
 
